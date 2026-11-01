@@ -2,6 +2,7 @@
 
 > **Plateforme Intelligente d'Orientation Scolaire & Professionnelle au Bénin**  
 > *Développée dans le cadre du Challenge **Ignite Your Future**.*
+Lien : https://parcours-ai.vercel.app/
 
 ---
 
