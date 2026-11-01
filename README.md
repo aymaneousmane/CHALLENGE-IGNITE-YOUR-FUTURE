@@ -61,7 +61,7 @@ npm install
 cp .env.example .env     # Configurer les clés Supabase si nécessaire
 npm run dev
 ```
-- Application Web : `http://localhost:5173/`
+- Application Web : `https://parcours-ai.vercel.app/`
 
 ---
 
